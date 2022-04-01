@@ -1,0 +1,17 @@
+{
+  "name": "numberwang",
+  "version": "0.0.0",
+  "description": "numberwang",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest test.js"
+  },
+  "author": "dmr <dradetsky@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  }
+}
